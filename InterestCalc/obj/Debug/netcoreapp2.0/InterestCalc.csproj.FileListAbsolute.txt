@@ -1,0 +1,9 @@
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\bin\Debug\netcoreapp2.0\InterestCalc.deps.json
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\bin\Debug\netcoreapp2.0\InterestCalc.dll
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\bin\Debug\netcoreapp2.0\InterestCalc.pdb
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.csprojResolveAssemblyReference.cache
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.csproj.CoreCompileInputs.cache
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.AssemblyInfoInputs.cache
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.AssemblyInfo.cs
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.dll
+c:\users\aharaldsson\source\repos\InterestCalc\InterestCalc\obj\Debug\netcoreapp2.0\InterestCalc.pdb

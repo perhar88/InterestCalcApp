@@ -1,0 +1,17 @@
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\XUnitTestInterestCalc.deps.json
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\XUnitTestInterestCalc.runtimeconfig.json
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\XUnitTestInterestCalc.runtimeconfig.dev.json
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\XUnitTestInterestCalc.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\XUnitTestInterestCalc.pdb
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\InterestCalc.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\bin\Debug\netcoreapp2.0\InterestCalc.pdb
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.csprojResolveAssemblyReference.cache
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.csproj.CoreCompileInputs.cache
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.AssemblyInfoInputs.cache
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.AssemblyInfo.cs
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.csproj.CopyComplete
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.dll
+c:\users\aharaldsson\source\repos\InterestCalc\XUnitTestInterestCalc\obj\Debug\netcoreapp2.0\XUnitTestInterestCalc.pdb
