@@ -10,6 +10,5 @@ namespace InterestCalc.Interfaces
         double CalcInterestByPerson(Person person);
         double CalcInterestByWallet(Wallet wallet);
         double CalcInterestByCard(CreditCard card);
-        CreditCard InitCard(CardEnum.CardType cardType, double balance);
     }
 }

@@ -21,11 +21,12 @@ namespace XUnitTestInterestCalc
             // 1 person has 1 wallet and 3 cards(1 Visa, 1 MC 1 Discover) – Each Card has a balance of $100 –
             // calculate the total interest(simple interest) for this person and per card.
 
-            var InterestCalcService = CreateDefaultInterestCalcService();            
-            
-            CreditCard cardVisa = InterestCalcService.InitCard(CardEnum.CardType.Visa, balance);
-            CreditCard cardMC = InterestCalcService.InitCard(CardEnum.CardType.MC, balance);
-            CreditCard cardDiscover = InterestCalcService.InitCard(CardEnum.CardType.Discover, balance);
+            var InterestCalcService = CreateDefaultInterestCalcService();
+
+            Visa cardVisa = new Visa(balance);
+            MC cardMC = new MC(balance);
+            Discover cardDiscover = new Discover(balance);
+
             List<CreditCard> Cards = new List<CreditCard>
             {
                 cardVisa,
@@ -59,9 +60,10 @@ namespace XUnitTestInterestCalc
 
             var InterestCalcService = CreateDefaultInterestCalcService();
 
-            CreditCard cardVisa = InterestCalcService.InitCard(CardEnum.CardType.Visa, balance);
-            CreditCard cardMC = InterestCalcService.InitCard(CardEnum.CardType.MC, balance);
-            CreditCard cardDiscover = InterestCalcService.InitCard(CardEnum.CardType.Discover, balance);
+            Visa cardVisa = new Visa(balance);
+            MC cardMC = new MC(balance);
+            Discover cardDiscover = new Discover(balance);
+
             List<CreditCard> Cards1 = new List<CreditCard>
             {
                 cardVisa,
@@ -83,7 +85,7 @@ namespace XUnitTestInterestCalc
             double totalInterestPerson = InterestCalcService.CalcInterestByPerson(person);
             double totalInterestWallet1 = InterestCalcService.CalcInterestByWallet(wallet1);
             double totalInterestWallet2 = InterestCalcService.CalcInterestByWallet(wallet2);
-            
+
 
             Assert.True(totalInterestPerson == 16, $"{totalInterestPerson} should be 16");
             Assert.True(totalInterestWallet1 == 11, $"{totalInterestWallet1} should be 11");
@@ -100,8 +102,8 @@ namespace XUnitTestInterestCalc
 
             var InterestCalcService = CreateDefaultInterestCalcService();
 
-            CreditCard cardVisa = InterestCalcService.InitCard(CardEnum.CardType.Visa, balance);
-            CreditCard cardMC = InterestCalcService.InitCard(CardEnum.CardType.MC, balance);
+            Visa cardVisa = new Visa(balance);
+            MC cardMC = new MC(balance);
 
             List<CreditCard> Cards1 = new List<CreditCard>
             {

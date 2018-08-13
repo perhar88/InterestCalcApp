@@ -35,34 +35,6 @@ namespace InterestCalc
 
             return CardInterest;
         }
-
-        public CreditCard InitCard(CardEnum.CardType cardType, double balance)
-        {
-            CreditCard Card;
-            switch (cardType)
-            {
-                case CardEnum.CardType.Visa:
-                    {
-                        Card = new CreditCard(0.1, balance, CardEnum.CardType.Visa);
-                        return Card;
-                    }
-                case CardEnum.CardType.MC:
-                    {
-                        Card = new CreditCard(0.05, balance, CardEnum.CardType.MC);
-                        return Card;
-                    }
-                case CardEnum.CardType.Discover:
-                    {
-                        Card = new CreditCard(0.01, balance, CardEnum.CardType.Discover);
-                        return Card;
-                    }
-                default:
-                    {
-                        Card = null;
-                        return Card;
-                    }
-            }
-
-        }
+        
     }
 }
